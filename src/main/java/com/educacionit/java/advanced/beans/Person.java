@@ -13,17 +13,6 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.EqualsBuilder;
 
 
-/**
- * 
- *  <p>The class <code>com.educacionit.java.advanced.beans.Person</code> is a POJOs class
- *     that define a person.
- *     
- *  
- * @author  Raul Geomar Pena (raul.pena@hotmail.com)
- *  @version 1.0.0
- *  @since   jdk 1.8
- *  @since   05/10/2017
- * */
 public class Person {
  
     
